@@ -1,0 +1,24 @@
+#navbar {
+ position: fixed;
+ left: 0;
+ padding: 20px;
+ }
+
+ #navbar header{
+   font-size: 1.618en;
+   margin-bottom:7px;
+ }
+
+ #navbar a {
+   display: block;
+   margin-bottom: 12px;
+   text-decoration: none;
+ }
+
+ #main-doc {
+   margin-left: 200px;
+ }
+
+ @media (max-width: 600px) {
+  font-size: 0.7em;}
+  }
